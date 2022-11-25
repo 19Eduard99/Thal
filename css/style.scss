@@ -208,13 +208,13 @@ $main_font: 'Roboto';
 
 // section shop
 
+
 .shop {
 	padding: 76px 0 51px;
 	background: rgba(204, 204, 204, 0.3);
 
 	@include max-screen(991px) {
 		text-align: center;
-		width: 80%;
 	}
 
 	h3 {
