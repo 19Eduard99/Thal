@@ -214,6 +214,7 @@ $main_font: 'Roboto';
 
 	@include max-screen(991px) {
 		text-align: center;
+		width: 80%;
 	}
 
 	h3 {
